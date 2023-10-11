@@ -1,0 +1,7 @@
+PHASE 1 CODE CHALLENGE FLATACUTIES
+In this folder contains the html,css and JavaScript files used to
+populate the Flatacuties webpage.
+
+What was expected of us was to write a JavaScript file and write fetch()
+commands to the json server,retrieve data from it's resources and use the
+data acquired to manipulate the DOM. 
